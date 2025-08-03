@@ -40,7 +40,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Image
-st.image("ev_wallpage.jpg", use_container_width=True)
+st.image("ev-car-factory.jpg", use_container_width=True)
 
 
 
@@ -277,4 +277,4 @@ if growth_values:
 
 st.success("Forecast complete")
 
-st.markdown("Prepared for the **AICTE Internship Cycle 2 by Dharma Satya Teja Kolla**")
+st.markdown("Prepared for the **AICTE Internship Cycle 2 by Devi Sri Harsha Mutyala**")
